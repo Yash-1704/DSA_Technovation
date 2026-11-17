@@ -1,4 +1,4 @@
-# DSA Technovation
+# Data Structures and Algorithms
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/problemset/)
 <a href="https://dsavation.vercel.app/"><img src="assets/dsavation-badge.png" height="28" alt="DSAvation"></a>
